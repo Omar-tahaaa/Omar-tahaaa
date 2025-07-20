@@ -46,6 +46,23 @@
 - Handled user authentication and session management with Firebase for secure and reliable data handling.
 
 ---
+#### 🌍 WorldWise
+> **WorldWise** is a React-based travel tracker app that allows users to log cities they’ve visited by interacting with a world map. Built with performance, scalability, and modern frontend techniques in mind.
+
+- ⚛️ Built with **React + Vite** for fast development and builds
+- 🧠 **Context API + useReducer** for global state management
+- 🗺️ **Leaflet** for interactive map visualization
+- 📍 **Geolocation API** to detect and center on user's current location
+- 📝 Click on map to open a form and **add visited cities**
+- 🔄 **CRUD operations** using **JSON Server** as a mock backend
+- 🔐 Simulated fake authentication
+- ♻️ **Custom hooks** for clean and reusable logic
+- ⚡ **Performance optimization** with `useMemo` and `useCallback`
+- ✂️ **Code splitting** to optimize bundle size
+- 🧭 **React Router** for client-side routing
+- 🎨 Styled with **CSS Modules**
+
+---
 
 ### 🧰 Skills
 
