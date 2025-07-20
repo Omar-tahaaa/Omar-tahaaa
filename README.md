@@ -6,7 +6,7 @@
 
 ---
 
-### 🔥 Featured Project
+### 🔥 Featured Projects
 
 #### 🏕️ [The Wild Oasis](https://github.com/Omar-tahaaa/the-wild-oasis-website)
 > A modern cabin reservation app with Google login, real-time booking, and profile management.
@@ -30,6 +30,20 @@
 - 🚚 Place priority orders with automatic 20% price adjustment
 - 🧠 State management using Redux Toolkit + Redux Thunks
 - 🧭 Routing powered by modern React Router loaders/actions and useFetcher
+
+---
+
+#### 🛒 [Responsive E-Commerce Web Application](https://ecommerceauth-213ce.web.app/)
+> A fully responsive and modern e-commerce platform built with React, Redux Toolkit, and Firebase, designed to provide users with a seamless shopping experience across all devices.
+
+- Add, update, and remove products with real-time total calculation and intuitive cart management.
+- Quickly find products using keyword-based search functionality.
+- Integrated Firebase Authentication for secure login, registration, and session handling.
+- Smooth and structured checkout flow from cart review to order completion.
+- Developed using React-Bootstrap and SCSS for a consistent, responsive, and visually appealing design.
+- Optimized for desktop, tablet, and mobile views to ensure usability on all screen sizes.
+- Centralized state management for product data, cart operations, and user actions using reducers, actions, and a Redux store.
+- Handled user authentication and session management with Firebase for secure and reliable data handling.
 
 ---
 
