@@ -8,7 +8,7 @@
 
 ### 🔥 Featured Project
 
-#### 🏕️ [The Wild Oasis](https://github.com/your-username/the-wild-oasis)
+#### 🏕️ [The Wild Oasis](https://github.com/Omar-tahaaa/the-wild-oasis-website)
 > A modern cabin reservation app with Google login, real-time booking, and profile management.
 
 - 🌿 Built with Next.js App Router, Tailwind CSS, Supabase, and NextAuth
