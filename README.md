@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, I'm Omar Taha👋</h1>
+<h1 align="center">Hey, I'm Omar Taha👋</h1>
 
 <p align="center">
   A passionate frontend developer building modern, scalable, and elegant web apps with the latest technologies.
