@@ -18,6 +18,21 @@
 
 ---
 
+#### 🍕 [Order Fast Pizza](https://github.com/Omar-tahaaa/order-fast-pizza)
+> A modern, fully responsive pizza ordering app built with React, Vite, Tailwind CSS, Redux Toolkit, and React Router v6.
+
+- ⚡ Fast performance using Vite
+- 📱 Fully responsive UI with Tailwind CSS
+- 🔍 Search for orders by ID
+- 📝 Dynamic pizza menu (title, image, ingredients, price)
+- 🛒 Add to cart, edit quantities, remove items, and clear cart
+- 📍 Get address with geolocation or manual input
+- 🚚 Place priority orders with automatic 20% price adjustment
+- 🧠 State management using Redux Toolkit + Redux Thunks
+- 🧭 Routing powered by modern React Router loaders/actions and useFetcher
+
+---
+
 ### 🧰 Skills
 
  ## Programming Languages
