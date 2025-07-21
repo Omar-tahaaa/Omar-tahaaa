@@ -50,18 +50,18 @@
 #### 🌍 [WorldWise](https://github.com/Omar-tahaaa/Worldwise)
 > **WorldWise** is a React-based travel tracker app that allows users to log cities they’ve visited by interacting with a world map. Built with performance, scalability, and modern frontend techniques in mind.
 
-- ⚛️ Built with **React + Vite** for fast development and builds
-- 🧠 **Context API + useReducer** for global state management
-- 🗺️ **Leaflet** for interactive map visualization
-- 📍 **Geolocation API** to detect and center on user's current location
-- 📝 Click on map to open a form and **add visited cities**
-- 🔄 **CRUD operations** using **JSON Server** as a mock backend
-- 🔐 Simulated fake authentication
-- ♻️ **Custom hooks** for clean and reusable logic
-- ⚡ **Performance optimization** with `useMemo` and `useCallback`
-- ✂️ **Code splitting** to optimize bundle size
-- 🧭 **React Router** for client-side routing
-- 🎨 Styled with **CSS Modules**
+- ⚛️ Fast development and builds with React + Vite
+- 🧠 Global state management using Context API and `useReducer`
+- 🗺️ Interactive map visualization powered by Leaflet
+- 📍 Detects and centers on user's location via the Geolocation API
+- 📝 Add visited cities by clicking directly on the map
+- 🔄 Full CRUD operations with JSON Server as a mock backend
+- 🔐 Simulated authentication for user experience
+- ♻️ Custom hooks for clean, reusable logic
+- ⚡ Performance optimization using `useMemo` and `useCallback`
+- ✂️ Code splitting for efficient bundle sizes
+- 🧭 Client-side routing with React Router
+- 🎨 Styled with CSS Modules for modular and maintainable styles
 
 ---
 
