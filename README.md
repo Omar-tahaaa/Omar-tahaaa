@@ -33,7 +33,7 @@
 
 ---
 
-#### 🛒 [Responsive E-Commerce Web Application](https://ecommerceauth-213ce.web.app/)
+#### 🛒 [Responsive E-Commerce Web Application](https://github.com/Omar-tahaaa/shop-Ecommerce-app)
 > A fully responsive and modern e-commerce platform built with React, Redux Toolkit, and Firebase, designed to provide users with a seamless shopping experience across all devices.
 
 - Add, update, and remove products with real-time total calculation and intuitive cart management.
@@ -46,7 +46,7 @@
 - Handled user authentication and session management with Firebase for secure and reliable data handling.
 
 ---
-#### 🌍 WorldWise
+#### 🌍 [WorldWise](https://github.com/Omar-tahaaa/Worldwise)
 > **WorldWise** is a React-based travel tracker app that allows users to log cities they’ve visited by interacting with a world map. Built with performance, scalability, and modern frontend techniques in mind.
 
 - ⚛️ Built with **React + Vite** for fast development and builds
