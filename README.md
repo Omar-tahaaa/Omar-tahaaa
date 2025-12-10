@@ -35,33 +35,27 @@
 #### 🍕 [Order Fast Pizza](https://github.com/Omar-tahaaa/order-fast-pizza)
 > A modern, fully responsive pizza ordering app built with React, Vite, Tailwind CSS, Redux Toolkit, and React Router v6.
 
-- ⚡ Lightning-fast performance powered by Vite
-- 📱 Fully responsive UI with Tailwind CSS
-- 🔍 Search for orders by ID
-- 📝 Dynamic pizza menu with titles, images, ingredients, and prices
-- 🛒 Cart management: add, update quantities, remove items, and clear cart
-- 📍 Address input via geolocation or manual entry
-- 🚚 Priority ordering with automatic 20% price adjustment
-- 🧠 State management using Redux Toolkit + Redux Thunks
-- 🧭 Seamless navigation with React Router loaders, actions
+-  Lightning-fast performance powered by Vite
+-  Fully responsive UI with Tailwind CSS
+-  Search for orders by ID
+-  Dynamic pizza menu with titles, images, ingredients, and prices
+-  Cart management: add, update quantities, remove items, and clear cart
+-  Address input via geolocation or manual entry
+-  Priority ordering with automatic 20% price adjustment
+-  State management using Redux Toolkit + Redux Thunks
+-  Seamless navigation with React Router loaders, actions
 
 ---
 #### 🌍 [WorldWise](https://github.com/Omar-tahaaa/Worldwise)
-> **WorldWise** is a React-based travel tracker app that allows users to log cities they’ve visited by interacting with a world map. Built with performance, scalability, and modern frontend techniques in mind.
+> A full-stack travel diary application enabling users to track and document their global adventures on an interactive map. Built with modern React patterns and real-time cloud synchronization.
 
-- ⚛️ Fast development and builds with React + Vite
-- 🧠 Global state management using Context API and `useReducer`
-- 🗺️ Interactive map visualization powered by Leaflet
-- 📍 Detects and centers on user's location via the Geolocation API
-- 📝 Add visited cities by clicking directly on the map
-- 🔄 Full CRUD operations with JSON Server as a mock backend
-- 🔐 Simulated authentication for user experience
-- ♻️ Custom hooks for clean, reusable logic
-- ⚡ Performance optimization using `useMemo` and `useCallback`
-- ✂️ Code splitting for efficient bundle sizes
-- 🧭 Client-side routing with React Router
-- 🎨 Styled with CSS Modules for modular and maintainable styles
-
+- Developed an interactive map-based interface using Leaflet and React Leaflet, allowing users to click any location worldwide to log their travels
+- Implemented Firebase Firestore integration for real-time data synchronization across devices, ensuring seamless user experience
+- Built geolocation functionality to automatically detect and populate city names and countries from map coordinates
+- Optimized application performance using React hooks (useMemo, useCallback) and Context API with useReducer for efficient state management
+- Created responsive UI with CSS Modules that adapts seamlessly across desktop, tablet, and mobile devices
+- Implemented client-side routing with React Router v6 for smooth navigation and better user experience
+- Deployed to Firebase Hosting with CI/CD pipeline configuration
 ---
 
 ### 🧰 Skills
