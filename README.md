@@ -1,7 +1,10 @@
 <h1 align="center">Hey, I'm Omar Taha👋</h1>
 
-<p align="center">
-  A passionate frontend developer building modern, scalable, and elegant web apps with the latest technologies.
+<p>
+  💻 Front-end Developer with hands-on experience building dynamic, responsive web applications using React and Next.js. 
+  Proficient in modern web technologies with a strong foundation in computer science fundamentals. Skilled at translating 
+  design concepts into clean, efficient code while maintaining accessibility and performance standards. Passionate about 
+  creating intuitive user experiences and collaborating with cross-functional teams to deliver scalable solutions.
 </p>
 
 ---
