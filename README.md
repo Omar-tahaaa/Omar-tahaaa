@@ -75,22 +75,22 @@
 
 ### 🧰 Skills
 
- ## Programming Languages
- - HTML5, CSS3, JavaScript (ES6+), TypeScript, C, Python, SQL, Flask
-  ## CSS Libraries & Frameworks
- - Bootstrap 5, Tailwind CSS, SCSS, Material UI, Styled Components
-  ## Frameworks/Libraries
- - React.js, Next.js, React Query, Redux Toolkit, Context API, React Router
-  ## Tools & Technologies
- - Git, GitHub, Firebase, Supabase, REST APIs, AJAX, JSON, Vite, Postman
-  ## Software Development
- - Object-Oriented Programming (OOP), Algorithms, Data Structures
+ ## Core Technologies
+ - React.js, Next.js, TypeScript, JavaScript (ES6+), HTML5, CSS3
+  ## State & Data Management
+ - Redux Toolkit, React Query, Context API, REST APIs
+  ## UI/Styling
+ - Material UI, Tailwind CSS, Ant Design, Styled Components, Bootstrap
+  ## Backend & Database
+ - Firebase, Supabase, MongoDB, Flask, Python
+  ## Development Tools
+ - Git/GitHub, Postman, Vite, JSON
+  ## Programming Fundamentals
+ - Data Structures, Algorithms, OOP, Problem Solving
   ## Soft Skills
- - Problem Solving, Communication, Teamwork, Presentation Skills, Time Management, Teaching & Mentoring
+ - Problem Solving, Communication, Teamwork, Time Management
 
 ---
-
-
 
 ### 📫 Get in Touch
 
