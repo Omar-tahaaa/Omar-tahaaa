@@ -21,7 +21,7 @@
 - Utilized date-fns for sophisticated date range calculations, booking validation, and availability calendar logic
 
 ---
-#### 🍕 [Foodies](https://github.com/Omar-tahaaa/foodies)
+#### 🍔 [Foodies](https://github.com/Omar-tahaaa/foodies)
 > A full-stack web application enabling food enthusiasts to discover, share, and explore recipes from around the world. Built with modern technologies to deliver a seamless user experience.
  
 - Developed a responsive web platform using Next.js 16 with App Router and React 19, serving recipe content to users across desktop and mobile devices
