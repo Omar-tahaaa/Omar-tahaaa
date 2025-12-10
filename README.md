@@ -56,6 +56,21 @@
 - Created responsive UI with CSS Modules that adapts seamlessly across desktop, tablet, and mobile devices
 - Implemented client-side routing with React Router v6 for smooth navigation and better user experience
 - Deployed to Firebase Hosting with CI/CD pipeline configuration
+  
+---
+
+#### 🛒 [The Market](https://github.com/Omar-tahaaa/The-Market-TS)
+> A full-stack e-commerce application built with Next.js 16 and TypeScript, featuring secure authentication, dynamic product browsing, and real-time filtering. Demonstrates enterprise-level architecture with Redux Toolkit state management and MongoDB integration.
+
+- Architected full-stack e-commerce platform using Next.js 16 App Router with TypeScript, implementing scalable folder structure and component-based architecture for maintainability
+- Developed secure authentication system using JWT tokens and MongoDB with Mongoose ORM, implementing protected routes through middleware and component-level guards
+- Built centralized state management solution using Redux Toolkit, managing Users, Products, and Categories slices with efficient data flow and reducers
+- Integrated external REST API (DummyJSON) for dynamic product fetching with real-time category filtering and search functionality
+- Implemented robust form validation system using React Hook Form with Zod schemas, ensuring type-safe data handling and comprehensive error management
+- Designed responsive, mobile-first UI with Material UI component library, featuring adaptive Navbar, Grid layouts, and consistent design system
+- Created RESTful API routes using Next.js API handlers for user authentication, registration, and data management with proper error handling
+- Enhanced user experience with real-time notifications using React Toastify for feedback on user actions and system events
+
 ---
 
 ### 🧰 Skills
