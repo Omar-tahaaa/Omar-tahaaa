@@ -9,16 +9,29 @@
 ### 🔥 Featured Projects
 
 #### 🏕️ [The Wild Oasis](https://github.com/Omar-tahaaa/the-wild-oasis-website)
-> A modern cabin reservation platform offering seamless Google authentication, real-time booking, and personalized profile management.
+> A full-stack hotel booking application built with Next.js 15, enabling users to browse luxury cabins, manage reservations, and authenticate securely. Features modern UI/UX design and real-time availability management for a seamless booking experience.
 
-- 🌿 Built with Next.js App Router, Tailwind CSS, Supabase, and NextAuth.js  
-- 📅 Book cabins with flexible dates, guest selection, and custom notes  
-- 🔐 Secure, protected routes with dynamic user experience based on authentication  
-- 🌀 Fully responsive, production-ready UI featuring intuitive loading and error states  
-- 🚀 Optimized for performance and accessibility
+- Developed comprehensive cabin reservation system with Next.js 15 App Router, implementing flexible date selection, guest management, and real-time availability tracking
+- Architected secure authentication flow using NextAuth.js with Google OAuth integration, managing user sessions and protecting sensitive routes with middleware
+- Integrated Supabase backend for PostgreSQL database management, user data storage, and cloud-based image hosting for cabin assets
+- Built complete booking management dashboard allowing users to view, modify, and cancel reservations with real-time updates and confirmation workflows
+- Engineered responsive UI with Tailwind CSS 4, implementing loading states, error boundaries, and accessibility features optimized for all devices
+- Implemented protected route architecture with dynamic content rendering based on authentication status, ensuring authorized access to user-specific features
+- Optimized application performance leveraging Next.js Server Components, Server Actions, static generation, and image optimization for fast load times and improved SEO
+- Utilized date-fns for sophisticated date range calculations, booking validation, and availability calendar logic
 
 ---
+#### 🍕 [Foodies](https://github.com/Omar-tahaaa/foodies)
+> A full-stack web application enabling food enthusiasts to discover, share, and explore recipes from around the world. Built with modern technologies to deliver a seamless user experience.
+ 
+- Developed a responsive web platform using Next.js 16 with App Router and React 19, serving recipe content to users across desktop and mobile devices
+- Implemented secure image upload functionality with client-side validation (20MB limit) and cloud-based storage using Vercel Blob for optimized CDN delivery
+- Designed and integrated serverless Neon PostgreSQL database with custom CRUD operations for efficient meal data management
+- Built form validation system using React Hook Form with XSS protection to ensure data integrity and security against cross-site scripting attacks
+- Utilized Next.js Server Actions for server-side data mutations, improving performance and user experience
+- Created dynamic routing system with URL-friendly slugs for SEO optimization and better discoverability
 
+---
 #### 🍕 [Order Fast Pizza](https://github.com/Omar-tahaaa/order-fast-pizza)
 > A modern, fully responsive pizza ordering app built with React, Vite, Tailwind CSS, Redux Toolkit, and React Router v6.
 
@@ -31,20 +44,6 @@
 - 🚚 Priority ordering with automatic 20% price adjustment
 - 🧠 State management using Redux Toolkit + Redux Thunks
 - 🧭 Seamless navigation with React Router loaders, actions
-
----
-
-#### 🛒 [Responsive E-Commerce Web Application](https://github.com/Omar-tahaaa/shop-Ecommerce-app)
-> A fully responsive and modern e-commerce platform built with React, Redux Toolkit, and Firebase, designed to provide users with a seamless shopping experience across all devices.
-
-- 🛒 Add, update, and remove products with real-time total calculation and intuitive cart management
-- 🔎 Keyword-based search for quick product discovery
-- 🔐 Secure login, registration, and session handling via Firebase Authentication
-- 💳 Smooth checkout flow from cart review to order completion
-- 🎨 Consistent, responsive, and visually appealing design using React-Bootstrap and SCSS
-- 📱 Optimized for desktop, tablet, and mobile devices
-- 🧠 Centralized state management for products, cart, and user actions with Redux Toolkit
-- 🔒 Reliable user authentication and session management with Firebase
 
 ---
 #### 🌍 [WorldWise](https://github.com/Omar-tahaaa/Worldwise)
